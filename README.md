@@ -21,7 +21,3 @@ Uses the TMDB 5000 Movies Dataset (Kaggle):
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 ⚠️ Dataset is not included due to large size. Users must download it separately and place it in the project folder.
-
-
-B.Tech CSE | ML & NLP Enthusiast
-GitHub: https://github.com/your-username
