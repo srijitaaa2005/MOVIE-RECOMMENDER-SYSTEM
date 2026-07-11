@@ -2,9 +2,10 @@
 
 A **Content-Based Movie Recommender System** built using **Natural Language Processing (NLP)** and **Machine Learning**. The application recommends movies based on their similarity in genres, keywords, cast, crew, and movie overview using the **TMDB 5000 Movies Dataset**.
 
-## 🚀 Live Demo
 
-🔗 **Try the application here:** *Add your deployed application link here*
+## 🌐 Live Demo
+
+🔗 **[Try the application here](https://cine-compass-2005.streamlit.app/)**
 
 ---
 
